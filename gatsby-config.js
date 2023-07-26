@@ -9,16 +9,14 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `XAppMag Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `HamidReza Baberi`,
+      summary: `who lives and works in Estonia.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `A daily blog for Ai, Ecommerce,... `,
+    siteUrl: `https://xappmag.netlify.com/`,
+    
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -102,7 +100,7 @@ module.exports = {
               }
             }`,
             output: "/rss.xml",
-            title: "Gatsby Starter Blog RSS Feed",
+            title: "XAppMag Blog RSS Feed",
           },
         ],
       },
@@ -110,8 +108,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `Gatsby`,
+        name: `XAppMag Blog`,
+        short_name: `XAppMag`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
