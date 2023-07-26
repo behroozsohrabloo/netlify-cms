@@ -41,7 +41,7 @@ Take the time to read customer ratings and feedback when comparing different sel
 
 Tips for Prolonging Blender Lifespan
 
-You can take specific precautions as a [Ninja blender](https://www.ebay.com/b/Ninja-Replacement-Cup-Blenders/133704/bn_77228407) owner to extend the life of your blender and its parts. Clean and maintain the blender regularly, following the manufacturer's instructions. Long periods of mixing hard or frozen foods might strain the motor and blade assembly. Proper care and maintenance can dramatically increase the life of your blender and its components.
+You can take specific precautions as a [Ninja blender](https://discompare.com/brand/ninja/) owner to extend the life of your blender and its parts. Clean and maintain the blender regularly, following the manufacturer's instructions. Long periods of mixing hard or frozen foods might strain the motor and blade assembly. Proper care and maintenance can dramatically increase the life of your blender and its components.
 
 Replacing and Installing the Parts
 
